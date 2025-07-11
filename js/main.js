@@ -3,7 +3,7 @@ onload = () => {
   const c = setTimeout(() => {
     document.body.classList.remove("not-loaded");
 
-    const titles = ('CONGRATULATION GALUH CANTIK').split('')
+    const titles = ('SELAMAT YA, GALUH CANTIK').split('')
     const titleElement = document.getElementById('title');
     let index = 0;
 
