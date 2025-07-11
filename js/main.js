@@ -3,7 +3,7 @@ onload = () => {
   const c = setTimeout(() => {
     document.body.classList.remove("not-loaded");
 
-    const titles = ('TO MY BEAUTIFUL DYRA').split('')
+    const titles = ('CONGRATULATION GALUH CANTIK').split('')
     const titleElement = document.getElementById('title');
     let index = 0;
 
